@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: My name is Alyssa Felix-Arreola. I am a MUSA graduate student concentrating in Public Health. I completed my Bachelor's of Science in Global Health, with a minor in GIS and Sustainability Science. 
 title: About Me
 headshot: /assets/img/headshot.webp
 permalink: /about
